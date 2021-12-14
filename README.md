@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, hunting
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on study programing language
-- 📫 How to reach me give a new knowledge
+- 📫 How to reach me skorpionkor@gmail.com
 
 <!---
 Skarabeyka/Skarabeyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
